@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A8C4&size=28&center=true&vCenter=true&width=600&lines=hi,+i'm+ maria fernanda+🎀;fullstack+developer;building+things+slowly+🪷" />
+  <img src="https://readme-typing-svg.demolab.com?color=F7A8C4&size=28&center=true&vCenter=true&width=600&lines=hi,+i'm+maria+fernanda+🎀;fullstack+developer;building+things+slowly+🪷" />
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ## 🩰 a little about me
 
-· backend developer  
-· finished my degree in 2025
-· i like to read books, going to cinema and travel around the world
+𖹭 backend developer
+𖹭 finished my degree in 2025
+𖹭 i like calm, pretty and simple things  
 
 💭 *"theory will take you only so far."*
 
@@ -28,14 +28,14 @@
   <img src="https://media.tenor.com/QrKFS6f2tS8AAAAC/pink-aesthetic.gif" width="200"/>
 </p>
 
-- 🌷 soft & minimal interfaces  
-- 🎮 indie & co-op games  
-- 🎬 slightly weird movies  
-- ☕ coding late at night for no reason  
+· 🌷 soft & minimal interfaces  
+· 🎮 indie & co-op games  
+· 🎬 slightly weird movies  
+· 💻 coding late at night for no reason  
 
 ---
 
-## 💻 stuff i use
+## 🔍stuff i use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs&theme=light" />
@@ -51,8 +51,8 @@
 
 ---
 
-## 🌷 currently
+## 🎀 currently
 
-𖹭 improving my fullstack skills  
-𖹭 building small personal projects  
-𖹭 trying to stay consistent
+·improving my fullstack skills  
+· building small personal projects  
+· trying to stay consistent

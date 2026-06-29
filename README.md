@@ -12,29 +12,29 @@
 
 ---
 
-## 🩰 About Me
+## 🪷 About Me
 
-• 💻 Full-Stack Developer  
-• 🎓 Computer Science graduate (2025)  
-• 📚 I enjoy reading books  
-• 🍿 I love going to the cinema  
-• ✈️ I love traveling
+• Full-Stack Developer  
+• Computer Science graduate (2025)  
+• I enjoy reading books  
+• I love going to the cinema  
+• I love traveling
 
 > *"Theory will take you only so far."*
 
 ---
 
-## 🎀 My Vibe
+## My Vibe
 
-• 🌷 Calm and minimal aesthetics  
-• ⚽ Watching football  
-• 🎮 Indie & co-op games  
-• 🎬 Slightly weird movies  
-• ☕ Late-night coding sessions
+• Calm and minimal aesthetics  
+• Watching football  
+• Indie & co-op games  
+• Slightly weird movies  
+• Late-night coding sessions
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,java,spring,mysql,git&theme=dark" />
@@ -50,8 +50,8 @@
 
 ---
 
-## 🌸 Currently
+## Currently
 
-• 🌱 Improving my Full-Stack skills  
-• 💡 Building personal projects  
-• ✨ Learning something new every day
+• Improving my Full-Stack skills  
+• Building personal projects  
+• Learning something new every day

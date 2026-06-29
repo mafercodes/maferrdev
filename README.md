@@ -14,11 +14,11 @@
 
 ## 🩰 About Me
 
-- 💻 Full-Stack Developer
-- 🎓 Graduated in 2025
-- 📚 I enjoy reading books
-- 🎬 I love going to the cinema
-- ✈️ I enjoy traveling
+• 💻 Full-Stack Developer
+• 🎓 Graduated in 2025
+• 📚 I enjoy reading books
+• 🎬 I love going to the cinema
+• ✈️ I enjoy traveling
 
 > *"Theory will take you only so far."*
 
@@ -30,10 +30,10 @@
   <img src="https://media.tenor.com/QrKFS6f2tS8AAAAC/pink-aesthetic.gif" width="200" />
 </p>
 
-· 🎀 Soft & minimal interfaces
-· 🎮 Indie & co-op games
-· 🎬 Slightly weird movies
-· 💻 Coding late at night for no reason
+• 🎀 Soft & minimal interfaces
+• 🎮 Indie & co-op games
+• 🎬 Slightly weird movies
+• 💻 Coding late at night for no reason
 
 ---
 
@@ -55,6 +55,6 @@
 
 ## 🎀 Currently
 
-· Improving my Full-Stack skills
-· Building personal projects
-· Learning something new every day
+• Improving my Full-Stack skills
+• Building personal projects
+• Learning something new every day

@@ -24,20 +24,20 @@
 
 ---
 
-## 🎀 My Vibe
+## 🪷 My Vibe
 
 <p align="center">
   <img src="https://media.tenor.com/QrKFS6f2tS8AAAAC/pink-aesthetic.gif" width="200" />
 </p>
 
-·🌷 Soft & minimal interfaces
+· 🎀 Soft & minimal interfaces
 · 🎮 Indie & co-op games
 · 🎬 Slightly weird movies
-· ☕ Coding late at night for no reason
+· 💻 Coding late at night for no reason
 
 ---
 
-## 💻 Tech Stack
+## 🔍 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs&theme=dark" />
@@ -48,7 +48,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maferrdev&show_icons=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=F7A8C4&bg_color=0d1117&hide_border=true" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mafercodes&show_icons=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=F7A8C4&bg_color=0d1117&hide_border=true" width="380" />
 </p>
 
 ---

@@ -45,11 +45,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maferrdev&show_icons=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=F7A8C4&bg_color=0d1117&hide_border=true" width="380" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maferrdev&layout=compact&title_color=F7A8C4&text_color=F7A8C4&bg_color=0d1117&hide_border=true" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mafercodes&show_icons=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=F7A8C4&bg_color=0d1117&hide_border=true" width="380" />
 </p>
 
 ---

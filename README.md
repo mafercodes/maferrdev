@@ -14,9 +14,9 @@
 
 ## 🩰 a little about me
 
-𖹭 backend developer  
-𖹭 finished my degree in 2025
-𖹭 i like calm, pretty and simple things  
+· backend developer  
+· finished my degree in 2025
+· i like to read books, going to cinema and travel around the world
 
 💭 *"theory will take you only so far."*
 
